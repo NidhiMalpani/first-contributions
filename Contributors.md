@@ -3,6 +3,7 @@
 # **Contributors**
 - [Daniel Hiebeler](https://github.com/daniebeler)
 - [Adit Magotra](https://github.com/AlphaLaser)
+- [Nidhi Malpani](https://github.com/NidhiMalpani)
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Torge Korff](https://github.com/TorgeKorff)
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
